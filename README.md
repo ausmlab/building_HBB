@@ -22,7 +22,6 @@ Please make sure that data files sturcture should be the following.
 ```
 
 ## Training/Testing
-There are config files that I used in the './configs/building'
-You have to change 'DATA_ROOT'to your own path
-You can use each file to train and test the model.
-Please refer to detailed option at [get_started.md](https://github.com/ausmlab/building_HBB/blob/main/docs/en/get_started.md)
+- There are config files that I used in the './configs/building'.
+- You have to change 'DATA_ROOT'to your own path.
+- You can use each file to train and test the model. Please refer to detailed option at [Train & Test](https://mmdetection.readthedocs.io/en/latest/user_guides/index.html#train-test)
